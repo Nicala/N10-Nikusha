@@ -1,0 +1,33 @@
+@media (max-width: 555px){
+    .img-wraper{
+       flex-direction: column; 
+    }
+}  
+@media (max-width: 1320px ){
+    .rightsec-3div{
+        justify-content: center;
+        align-items: center;
+        
+    }
+}
+@media (max-width:900px){
+    .sec4-box2{
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+@media (max-width:1050px){
+     .ft-left{
+        justify-content: center;
+        align-items: center;
+    } 
+}
+@media (max-width:730px){
+    .navigation1{
+        display: none;
+    }
+    .burger-icon{
+        display: block;
+    }
+}
